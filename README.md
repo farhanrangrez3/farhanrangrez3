@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farhanrangrez3
+- 👋 Hi, I’m @farhanrangrez 
 - 👀 I’m interested in singing,writing and coding..
 - 🌱 I’m currently learning .net full stack...
 
